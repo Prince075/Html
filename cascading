@@ -1,0 +1,22 @@
+<! DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color:black;
+}
+h1{
+    color:red;
+    font-size:50px;
+}
+p{
+    color:white;
+    font-size:40px;
+}
+</style>
+</head>
+<body>
+<h1>Hi this is going to be a great fun...</h1>
+<p>Just trying the css for the first time!!!!</p>
+</body>
+</html>
